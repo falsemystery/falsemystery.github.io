@@ -2,13 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://falsemystery.github.io</id>
     <title>falsemystery</title>
-    <updated>2020-05-10T06:08:37.857Z</updated>
+    <updated>2020-05-10T06:13:41.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://falsemystery.github.io"/>
     <link rel="self" href="https://falsemystery.github.io/atom.xml"/>
     <logo>https://falsemystery.github.io/images/avatar.png</logo>
     <icon>https://falsemystery.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, falsemystery</rights>
+    <entry>
+        <title type="html"><![CDATA[不客观的播客分享]]></title>
+        <id>https://falsemystery.github.io/post/bu-ke-guan-de-bo-ke-fen-xiang/</id>
+        <link href="https://falsemystery.github.io/post/bu-ke-guan-de-bo-ke-fen-xiang/">
+        </link>
+        <updated>2020-05-10T06:08:50.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="喜欢程度播客名称关键词">喜欢程度｜播客名称｜关键词</h1>
+<p>🌟🌟🌟🌟🌟｜津津乐道｜知识、科技、生活、时事等<br>
+🌟🌟🌟🌟🌟｜随机波动｜价值观、政治、时事<br>
+🌟🌟🌟🌟🌟｜byte.coffee｜科技、咖啡<br>
+🌟🌟🌟🌟🌟｜哈利播客｜哈利波特<br>
+🌟🌟🌟🌟🌟｜太医来了｜医学、已断更<br>
+🌟🌟🌟🌟🌟｜陈海贤李松蔚张春｜心理学、已断更<br>
+🌟🌟🌟🌟｜狗熊有话说｜阅读、生活、科技、效率<br>
+🌟🌟🌟🌟｜Full of Mind｜心理学、阅读<br>
+🌟🌟🌟🌟｜不在场｜音乐<br>
+🌟🌟🌟🌟｜小声喧哗｜价值观、电影<br>
+🌟🌟🌟🌟｜一天世界｜价值观、科技<br>
+🌟🌟🌟🌟｜忽左忽右｜价值观、见识<br>
+🌟🌟🌟🌟｜一派｜科技<br>
+🌟🌟🌟🌟｜三五环｜商业、科技<br>
+🌟🌟🌟🌟｜Anyway.FM｜设计、科技<br>
+🌟🌟🌟🌟｜折尔根播客｜科技、阅读<br>
+🌟🌟🌟🌟｜黑水公园｜电影<br>
+🌟🌟🌟｜谐星聊天会｜喜剧<br>
+🌟🌟🌟｜一言不合｜喜剧<br>
+🌟🌟🌟｜无聊斋｜喜剧、见识<br>
+🌟🌟🌟｜不可理论｜文学<br>
+🌟🌟🌟｜文化土豆｜文学<br>
+🌟🌟🌟｜机核gadio｜游戏、电影、阅读<br>
+🌟🌟🌟｜三号坏男孩｜生活<br>
+🌟🌟🌟｜内核恐慌｜科技<br>
+🌟🌟🌟｜提前怀旧｜科技<br>
+🌟🌟🌟｜Whatever.FM｜音乐<br>
+🌟🌟🌟｜博物志｜博物馆、设计<br>
+🌟🌟🌟｜两个IT大叔｜科技、已断更<br>
+🌟🌟｜VoicerFM｜生活<br>
+🌟🌟｜神爱玩财｜冥想、启灵药<br>
+🌟🌟｜翻转电台｜哲学</p>
+<p>备注：</p>
+<ul>
+<li>星级只表示个人喜欢的程度，与播客质量不完全相关。</li>
+<li>🌟🌟的播客也是经常听的，不喜欢的没有列入文中。</li>
+<li>关键词只凭印象写出，并不全面。</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今天学到的奇怪知识（2）]]></title>
         <id>https://falsemystery.github.io/post/jin-tian-xue-dao-de-qi-guai-zhi-shi-2/</id>
