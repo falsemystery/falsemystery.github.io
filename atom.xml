@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://falsemystery.github.io</id>
     <title>falsemystery</title>
-    <updated>2020-05-10T06:13:41.643Z</updated>
+    <updated>2020-05-10T06:15:45.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://falsemystery.github.io"/>
     <link rel="self" href="https://falsemystery.github.io/atom.xml"/>
@@ -15,8 +15,8 @@
         <link href="https://falsemystery.github.io/post/bu-ke-guan-de-bo-ke-fen-xiang/">
         </link>
         <updated>2020-05-10T06:08:50.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="喜欢程度播客名称关键词">喜欢程度｜播客名称｜关键词</h1>
-<p>🌟🌟🌟🌟🌟｜津津乐道｜知识、科技、生活、时事等<br>
+        <content type="html"><![CDATA[<p><strong>喜欢程度｜播客名称｜关键词</strong><br>
+🌟🌟🌟🌟🌟｜津津乐道｜知识、科技、生活、时事等<br>
 🌟🌟🌟🌟🌟｜随机波动｜价值观、政治、时事<br>
 🌟🌟🌟🌟🌟｜byte.coffee｜科技、咖啡<br>
 🌟🌟🌟🌟🌟｜哈利播客｜哈利波特<br>
@@ -57,7 +57,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[今天学到的奇怪知识（2）]]></title>
+        <title type="html"><![CDATA[奇怪知识（2）]]></title>
         <id>https://falsemystery.github.io/post/jin-tian-xue-dao-de-qi-guai-zhi-shi-2/</id>
         <link href="https://falsemystery.github.io/post/jin-tian-xue-dao-de-qi-guai-zhi-shi-2/">
         </link>
@@ -69,7 +69,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[今天学到的奇怪知识（1）]]></title>
+        <title type="html"><![CDATA[奇怪知识（1）]]></title>
         <id>https://falsemystery.github.io/post/jin-tian-xue-dao-de-qi-guai-zhi-shi/</id>
         <link href="https://falsemystery.github.io/post/jin-tian-xue-dao-de-qi-guai-zhi-shi/">
         </link>
